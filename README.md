@@ -1,6 +1,9 @@
-# corona
+# CORONAVIRUS LIVE COUNT TRACKER
 
 A new Flutter project.
+![WhatsApp Image 2020-03-14 at 21 24 04](https://user-images.githubusercontent.com/61597430/76685504-47629200-663a-11ea-87d8-22aef0cf5310.jpeg)
+![WhatsApp Image 2020-03-14 at 21 24 01](https://user-images.githubusercontent.com/61597430/76685505-4893bf00-663a-11ea-9cb1-6996f059d549.jpeg)
+
 
 ## Getting Started
 
